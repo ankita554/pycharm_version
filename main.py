@@ -13,3 +13,10 @@ for i in my_list:
 print(len(duplicates))
 print(duplicates)
 print("name_ankita")
+
+
+def test_add(a,b):
+
+    return a+b
+
+print(test_add(4,5))
