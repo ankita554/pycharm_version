@@ -12,4 +12,4 @@ for i in my_list:
 
 print(len(duplicates))
 print(duplicates)
-print("name")
+print("name_ankita")
