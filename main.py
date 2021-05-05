@@ -20,3 +20,4 @@ def test_add(a,b):
     return a+b
 
 print(test_add(4,5))
+print(test_add(56,23))
